@@ -49,11 +49,17 @@ Our project deploys YOLOv3-based AI to detect correction pen fluid in images via
                     or
         pip3 install -r requirements.txt
    
+   ### 4. Run Flask Server.
+  
+          python app.py 
+                    or       
+          python3 app.py 
+          
    ### 4. Now its time to detect the Whitener on the test Images given.
-        
-          python app.py (flask Server) and open local ip (localhost:5000)
-                    or
-          python3 app.py (flask Server) and open local ip (localhost:5000)
+   Open a web browser and enter the IP address    
+          localhost:5000
+          
+          
   
   The above python code might take sometime according to the specifications of the system.
         
