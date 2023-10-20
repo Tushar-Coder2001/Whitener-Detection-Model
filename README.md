@@ -57,6 +57,7 @@ Our project deploys YOLOv3-based AI to detect correction pen fluid in images via
           
    ### 4. Now its time to detect the Whitener on the test Images given.
    Open a web browser and enter the IP address    
+          
           localhost:5000
           
           
