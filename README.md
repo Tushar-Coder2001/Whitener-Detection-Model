@@ -64,5 +64,6 @@ Our project deploys YOLOv3-based AI to detect correction pen fluid in images via
   
   The above python code might take sometime according to the specifications of the system.
   ![Screenshot 2023-10-20 133705](https://github.com/Tushar-Coder2001/Whitener-Detection-Model/assets/72591568/39bbdc5e-bfea-40ed-bfc8-9303f06f3d02)
+  ![Screenshot 2023-10-20 134137](https://github.com/Tushar-Coder2001/Whitener-Detection-Model/assets/72591568/8a1f5d41-04ac-4a64-a5b7-511f232edbcb)
         
         
